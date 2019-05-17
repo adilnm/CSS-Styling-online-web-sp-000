@@ -43,6 +43,6 @@ figcaption{
 
 }
 
-#details a:hover{
+#details a:active{
   color: red;
 }
